@@ -1,0 +1,29 @@
+/*
+ * screen css
+ */
+.pk-header {
+	background-image: url("../imgs/world-bg-high.jpg");
+	background-position: center;
+    background-size: 120%;
+}
+
+.bnt-down{
+    height: 64px;
+}
+
+.btn-quote {padding-left: 60px; padding-right: 60px;}
+.subcall {margin-bottom: 40px;}
+.bnt-down {display: block;}
+header {padding-bottom: 0;}
+
+.pk-header h1 {font-size: 38px;}
+.pk-header h3 {font-size: 20px;}
+.pk-main h1 {font-size: 42px; text-align: left; margin-top:100px;}
+.pk-main li p{text-align: left; font-size: 17px; font-weight: 700; line-height: 1.2em;}
+.pk-main strong {display: inline; font-size: 26px; font-weight: 900;}
+.pk-toons .pk-description {margin-top: -171px;}
+.pk-library .pk-description {margin-top: -237px;}
+.pk-games .pk-description {margin-top: -208px;}
+.pk-best .pk-description {margin-top: -211px;}
+.item {text-align: center;width: 143px;}
+.btn-play {width: 50%;}

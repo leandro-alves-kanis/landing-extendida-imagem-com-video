@@ -1,0 +1,28 @@
+/*
+ * mobile css
+ */
+
+.pk-header h1 {font-size: 26px;}
+.pk-header h3 {font-size: 19px; font-weight: 700;}
+.pk-header h1, .pk-header h3 {
+	color: #FFF;
+	text-shadow: 0px 2px 2px rgba(0,0,0,0.2);;
+}
+
+body {text-align: center !important;}
+.bnt-down {display: none;}
+.device-full {width: 392px; display: none;}
+.device-mobile {display: block;}
+.pk-header {
+	background-size: 1200px;
+	background-position: 65% top;
+    height: 684px;
+	box-shadow: inset 0px 650px 177px -236px rgba(0,0,0,0.7);
+}
+
+.logo-playkids {margin: 0;}
+
+.pk-main h1 {font-size: 30px;}
+.pk-main li p{text-align: left; font-size: 17px; font-weight: 700;}
+.pk-main strong {display: block; font-size: 23px; font-weight: 900;}
+.pk-description {margin-top: 22px;}
